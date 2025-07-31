@@ -1,2 +1,5 @@
 # INSY7213_ICE1_ST10434337
 Database B - ICE 1 from 2021 Exam
+
+Note: 
+initial commit file seemed it was missing quereis thus updated file attached.
